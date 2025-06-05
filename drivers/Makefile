@@ -188,3 +188,4 @@ obj-$(CONFIG_INTERCONNECT)	+= interconnect/
 obj-$(CONFIG_COUNTER)		+= counter/
 obj-$(CONFIG_NXP_SR100)         += uwb-sr100/
 obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
